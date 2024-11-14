@@ -7,7 +7,7 @@ About Me
 🌱I’m currently studying at [Public Vocational High School 4 Malang](https://smkn4malang.sch.id)  
 📫 How to reach me:  
 - Email: kayramaybe@gmail.com
-- Linkedin: (https://www.linkedin.com/in/abed-suseno-978807336/)
+- Linkedin: [Linkedin Profile](https://www.linkedin.com/in/abed-suseno-978807336/)
 ⚡ Fun fact: [Fun fact about you!]
 🔧 Technologies & Tools
 
