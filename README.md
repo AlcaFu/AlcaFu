@@ -1,9 +1,10 @@
-<h1>Hi there! 👋 I'm Abed Greatvo Suseno!
-Welcome to my GitHub profile! I'm a [Your Profession, e.g., Software Developer, Data Scientist] who loves [mention a few things you're passionate about, like open-source projects, machine learning, web development, etc.].
+<h1>Hi there! 👋 I'm Abed Greatvo Suseno!</h1>
+
+Welcome to my GitHub profile! I'm a Student at Public Vocational High School 4 Malang, who have an interest in Game Development. I like using Unity Engine as a Game Engine for my project. I like to learn many new things that are interesting to me. 
 
 About Me
-🔭 I’m currently working on [Project/Skill/Topic]
-🌱 I’m currently learning [Technology, Framework, Tool]
+🔭 I’m currently working on MazeProject at Unimasoft.
+🌱I’m currently studying at [Public Vocational High School 4 Malang](https://smkn4malang.sch.id).
 👯 I’m looking to collaborate on [Types of Projects/Specific Languages]
 💬 Ask me about [Expertise or Interests]
 📫 How to reach me: [Email or Social Media Links]
