@@ -5,7 +5,9 @@ Welcome to my GitHub profile! I'm a Student at Public Vocational High School 4 M
 About Me
 🔭 I’m currently working on MazeProject at [Unimasoft](https://unimasoft.id/)  
 🌱I’m currently studying at [Public Vocational High School 4 Malang](https://smkn4malang.sch.id)  
-📫 How to reach me:  - Email
+📫 How to reach me:  
+- Email: kayramaybe@gmail.com
+- Linkedin: (https://www.linkedin.com/in/abed-suseno-978807336/)
 ⚡ Fun fact: [Fun fact about you!]
 🔧 Technologies & Tools
 
