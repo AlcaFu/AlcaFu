@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Student at Public Vocational High School 4 Malang, who have an interest in Game Development. I like using Unity Engine as a Game Engine for my project. I like to learn many new things that are interesting to me. 
 
 About Me
-🔭 I’m currently working on MazeProject at [Unimasoft](https://unimasoft.id/)  
+🔭 I’m currently an intern at [Unimasoft](https://unimasoft.id/)  
 🌱I’m currently studying at [Public Vocational High School 4 Malang](https://smkn4malang.sch.id)  
 📫 How to reach me:  
 - Email: kayramaybe@gmail.com
